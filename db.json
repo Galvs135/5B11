@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "email": "kenzinho@mail.com",
+      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+      "name": "Kenzinho",
+      "age": 38,
+      "id": 1
+    },
+    {
+      "email": "gabriel@kenzie.com.br",
+      "password": "$2a$10$4MloFRLiHLewluKoIh2TieNwT4ZOAklXOfPjJSTeVWdAtTCQIX4Tu",
+      "name": "Filipe Gutierry",
+      "bio": "Lorem ipsum dolor emet",
+      "contact": "123456789",
+      "course_module": "2o Módulo (Frontend avançado)",
+      "id": 2
+    },
+    {
+      "email": "doi21@hotmail.com",
+      "password": "$2a$10$wyusrw263wz2.SnoNqvgXubzQefs/qbQNxgD2z1QP3Eo1TmAs5qni",
+      "firstname": "Lucas",
+      "lastname": "Galvao",
+      "age": 22,
+      "id": 3
+    }
+  ],
+  "animals": [
+    {
+      "type": "Gato",
+      "name": "Batata",
+      "userId": "1",
+      "id": 1
+    }
+  ],
+  "historicalAnimals": [
+    {
+      "type": "Dinossauro",
+      "name": "Dino",
+      "userId": "3",
+      "email": "doi21@hotmail.com",
+      "password": "Lucas12@",
+      "id": 1
+    }
+  ]
+}
